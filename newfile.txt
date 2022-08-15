@@ -1,0 +1,4 @@
+What is the difference between add, commit, and push?
+
+git add -Add the changes in the specified files/directories to the staging area.
+
