@@ -1,4 +1,6 @@
 What is the difference between add, commit, and push?
 
 git add -Add the changes in the specified files/directories to the staging area.
+git commit -Bundle up all the changes in the staging area into a single commit object, and add that commit to the current branch, in the local repository.
+git push -Find the remote repository specified in the local repository's configuration, find out what commits on the local branch are not present in the upstream branch, and send those commits.
 
